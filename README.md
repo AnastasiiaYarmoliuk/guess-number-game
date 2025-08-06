@@ -22,3 +22,7 @@ The goal is to guess the number in as few attempts as possible.
 - HTML5
 - CSS3
 - JavaScript
+
+## 🌍 Live Version
+ 
+🔗 [https://anastasiiayarmoliuk.github.io/guess-number-game/](https://anastasiiayarmoliuk.github.io/guess-number-game/)
